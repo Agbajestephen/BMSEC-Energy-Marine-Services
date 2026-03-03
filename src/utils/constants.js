@@ -1,0 +1,40 @@
+export const BRAND = {
+  name: 'BMSEC',
+  fullName: 'BMSEC Energy and Marine Services',
+  tagline: 'Powering Energy & Marine Excellence',
+  description:
+    'Your trusted partner for premium fuel, oil, tires, batteries, and marine services. BMSEC Energy and Marine Services delivers world-class energy solutions across land and sea since 1998.',
+  phone: '+1 (800) 555-0199',
+  email: 'info@bmsec-energy.com',
+  address: '1200 Energy Boulevard, Houston, TX 77002, USA',
+  workingHours: 'Mon - Sat: 7:00 AM - 9:00 PM',
+  founded: 1998,
+  stations: '2,500+',
+  customers: '10M+',
+  countries: '35+',
+  employees: '18,000+',
+  socialMedia: {
+    facebook: 'https://facebook.com/bmsecenergy',
+    twitter: 'https://twitter.com/bmsecenergy',
+    instagram: 'https://instagram.com/bmsecenergy',
+    linkedin: 'https://linkedin.com/company/bmsecenergy',
+    youtube: 'https://youtube.com/bmsecenergy',
+  },
+}
+
+export const IMAGES = {
+  hero1: 'https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=1920&q=80',
+  hero2: 'https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=1920&q=80',
+  hero3: 'https://images.unsplash.com/photo-1504222490345-c075b6008014?w=1920&q=80',
+  about: 'https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=1200&q=80',
+  oil: 'https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80',
+  tires: 'https://images.unsplash.com/photo-1578844251758-2f71da64c96f?w=800&q=80',
+  batteries: 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&q=80',
+  fuel: 'https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=800&q=80',
+  station: 'https://images.unsplash.com/photo-1567581935884-3349723552ca?w=800&q=80',
+  marine: 'https://images.unsplash.com/photo-1559825481-12a05cc00344?w=800&q=80',
+  cta: 'https://images.unsplash.com/photo-1504222490345-c075b6008014?w=1920&q=80',
+  teamMember1: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80',
+  teamMember2: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80',
+  teamMember3: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80',
+}
